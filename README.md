@@ -1,6 +1,3 @@
-Sure, I can help make your README file more attractive. Here is an improved version:
-
-```markdown
 # 🎮 UNO Game (C++ Console) 🃏
 
 ## 📌 Description
