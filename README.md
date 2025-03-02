@@ -57,6 +57,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 Developed by [Talha Sami](https://github.com/yourusername).
 
-```
-
-Feel free to customize further to match your personal style!
