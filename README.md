@@ -1,47 +1,51 @@
-UNO Game in C++ 🎴
+# 🎮 UNO Game (C++ Console) 🃏
 
-This is a console-based UNO game developed in C++ for two players. It follows the official UNO rules, including special action cards such as Skip, Reverse, Draw Two, Wild, and Wild Draw Four. The game provides a simple yet engaging experience with turn-based gameplay, randomized deck shuffling, and an easy-to-use interface.
+## 📌 Description
+This is a simple console-based UNO game implemented in C++. The game is designed to run in the terminal and follows basic UNO rules. It is a single-file implementation with all the logic contained within main.cpp, and the results of the game are stored in result.txt.
 
-Features 🚀
+## ✨ Features
+- 🎭 Two-player Game.
+- 🔄 Basic UNO rules including draw, skip, reverse, and wild cards.
+- ⏳ Turn-based gameplay in the console.
+- 📝 Saves game results to result.txt.
 
-✅ 2-player support
-✅ Follows official UNO rules
-✅ Special action cards included
-✅ Random deck shuffling for fairness
-✅ Turn-based system with validation
-✅ User-friendly console interface
+## 🛠 Installation
+1. Clone the repository:
+   sh
+   git clone https://github.com/yourusername/UNO-Game.git
+   
+2. Navigate to the project directory:
+   sh
+   cd UNO-Game
+   
+3. Compile the source code using a C++ compiler:
+   sh
+   g++ main.cpp -o uno_game
+   
 
-How to Play 🎮
+## 🚀 Usage
+1. Run the executable:
+   sh
+   ./uno_game
+   
+2. Follow the on-screen instructions to play.
+3. The game results will be saved in result.txt.
 
-Run the program.
+## ⚙ Requirements
+- 🖥 C++ compiler (GCC, Clang, or MSVC)
+- 🏁 Windows
 
-Each player takes turns playing a card that matches the color or number of the top card on the pile.
+## 📂 File Structure
+- main.cpp 📜: Contains all the game logic.
+- result.txt 📝: Stores the results of completed games.
 
-Special action cards can be used to change the game dynamics.
+## 🚧 Future Enhancements
+- 🤖 Implement AI for single-player mode.
+- 🎨 Add graphical interface support.
+- 🔥 Improve game logic with more UNO rules.
 
-If a player has no valid card to play, they must draw a card.
-
-The first player to play all their cards wins!
-
-Installation & Compilation 🛠
-
-Clone the repository:
-
-git clone https://github.com/yourusername/uno-game-cpp.git
-cd uno-game-cpp
-
-Compile the game:
-
-g++ uno.cpp -o uno
-
-Run the game:
-
-./uno
-
-Contributions 🤝
-
-Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to improve the game.
-
-License 📜
-
+## 📜 License
 This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+Developed by [Muhammad Hasaam].
