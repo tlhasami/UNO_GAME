@@ -54,10 +54,3 @@ Requirements
 C++ Compiler (GCC, Clang, or MSVC)
 
 Operating System: Windows / Linux
-
-File Structure
-UNO_GAME/
-│
-├── main.cpp      # Core game logic
-├── result.txt    # Stores game results
-└── README.md     # Project documentation
